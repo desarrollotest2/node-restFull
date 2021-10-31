@@ -1,2 +1,0 @@
-# node-restFull
-node-restFull
